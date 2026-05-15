@@ -10,7 +10,7 @@
     {
       "name": "synapse",
       "description": "Bidirectional code-documentation sync for AI agents — hash-based anchors, versioned architectural maps, auto-discovery, and live HTML viewer",
-      "version": "2.4.0",
+      "version": "2.5.0",
       "author": {
         "name": "morgana-security"
       },
